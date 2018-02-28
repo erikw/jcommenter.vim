@@ -1,3 +1,8 @@
+== Fork ==
+
+This fork just does $dos2unix plugin/jcommenter.vim to make the plugin work on *nix.
+
+
 This is a mirror of http://www.vim.org/scripts/script.php?script_id=20
 
 Updated 29.12.2002 KB
